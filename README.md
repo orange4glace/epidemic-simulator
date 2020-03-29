@@ -1,6 +1,6 @@
 # Epidemic Simulator
 
-[Click here to go the Simulator page](https://orange4glace.github.io/epidemic-simulator/)
+[Click here to play the Simulator](https://orange4glace.github.io/epidemic-simulator/)
 
 Epidemic Simulator inspired by [*Simulating an epidemic*.](https://www.youtube.com/watch?v=gxAaO2rsdIs)
 Implemented with WebGL.
