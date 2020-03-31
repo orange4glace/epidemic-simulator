@@ -67,12 +67,12 @@ export class _SIRModelImpl implements _SIRModel {
 
     this.societyColumnLength = 3;
     this.societyRowLength = 3;
-    this.societyPopulation = 500;
-    this.societySize = 1000;
+    this.societyPopulation = 700;
+    this.societySize = 900;
 
     this.initialInfectionPossiblity = 0.1;
-    this.infectionRate = 0.1;
-    this.infectionDiscoveryRate = 0.5;
+    this.infectionRate = 0.15;
+    this.infectionDiscoveryRate = 0.2;
     this.infectionRecoveryRate = 0.05;
     this.infectionRadius = 40;
 
